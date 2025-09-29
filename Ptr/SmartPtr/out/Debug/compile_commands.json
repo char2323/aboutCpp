@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/charmmy/Github/aboutCpp/Ptr/SmartPtr/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/main.dir/main.cpp.o -c /home/charmmy/Github/aboutCpp/Ptr/SmartPtr/main.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/Ptr/SmartPtr/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/charmmy/Github/aboutCpp/Ptr/SmartPtr/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/main.dir/Person.cpp.o -c /home/charmmy/Github/aboutCpp/Ptr/SmartPtr/Person.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/Ptr/SmartPtr/Person.cpp",
+  "output": "CMakeFiles/main.dir/Person.cpp.o"
+},
+{
+  "directory": "/home/charmmy/Github/aboutCpp/Ptr/SmartPtr/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/main.dir/Student.cpp.o -c /home/charmmy/Github/aboutCpp/Ptr/SmartPtr/Student.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/Ptr/SmartPtr/Student.cpp",
+  "output": "CMakeFiles/main.dir/Student.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/Deque.dir/link.d CMakeFiles/Deque.dir/main.cpp.o -o Deque

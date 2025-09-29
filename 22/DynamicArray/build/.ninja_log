@@ -1,0 +1,4 @@
+# ninja log v6
+0	190	1757690598660945172	CMakeFiles/first.dir/main.cpp.o	ce48f335bec2c14b
+0	195	1757690598662283885	CMakeFiles/first.dir/DynamicArray.cpp.o	75327226f9dbb689
+195	231	1757690598856316858	first	790af90dd62abd93

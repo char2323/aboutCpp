@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/SFINAE.dir/link.d CMakeFiles/SFINAE.dir/main.cpp.o CMakeFiles/SFINAE.dir/sfinae.cpp.o -o SFINAE

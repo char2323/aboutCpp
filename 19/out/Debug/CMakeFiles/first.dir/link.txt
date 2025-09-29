@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/first.dir/link.d CMakeFiles/first.dir/main.cpp.o CMakeFiles/first.dir/Student.cpp.o CMakeFiles/first.dir/Example.cpp.o CMakeFiles/first.dir/Mystring.cpp.o CMakeFiles/first.dir/MoveExample.cpp.o CMakeFiles/first.dir/Point.cpp.o -o first

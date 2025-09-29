@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/Map.dir/link.d CMakeFiles/Map.dir/main.cpp.o CMakeFiles/Map.dir/MyMap.cpp.o -o Map

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/charmmy/Github/aboutCpp/SFINAE/out/Debug",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/SFINAE.dir/main.cpp.o -c /home/charmmy/Github/aboutCpp/SFINAE/main.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/SFINAE/main.cpp",
+  "output": "CMakeFiles/SFINAE.dir/main.cpp.o"
+},
+{
+  "directory": "/home/charmmy/Github/aboutCpp/SFINAE/out/Debug",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/SFINAE.dir/sfinae.cpp.o -c /home/charmmy/Github/aboutCpp/SFINAE/sfinae.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/SFINAE/sfinae.cpp",
+  "output": "CMakeFiles/SFINAE.dir/sfinae.cpp.o"
+}
+]

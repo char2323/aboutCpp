@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/charmmy/Github/aboutCpp/Templates/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Templates.dir/main.cpp.o -c /home/charmmy/Github/aboutCpp/Templates/main.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/Templates/main.cpp",
+  "output": "CMakeFiles/Templates.dir/main.cpp.o"
+},
+{
+  "directory": "/home/charmmy/Github/aboutCpp/Templates/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Templates.dir/template.cpp.o -c /home/charmmy/Github/aboutCpp/Templates/template.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/Templates/template.cpp",
+  "output": "CMakeFiles/Templates.dir/template.cpp.o"
+}
+]

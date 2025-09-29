@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/try.dir/link.d CMakeFiles/try.dir/try.cpp.o -o try

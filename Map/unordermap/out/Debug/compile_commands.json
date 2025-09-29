@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/charmmy/Github/aboutCpp/Map/unordermap/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/unordermap.dir/main.cpp.o -c /home/charmmy/Github/aboutCpp/Map/unordermap/main.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/Map/unordermap/main.cpp",
+  "output": "CMakeFiles/unordermap.dir/main.cpp.o"
+},
+{
+  "directory": "/home/charmmy/Github/aboutCpp/Map/unordermap/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/unordermap.dir/MyHashMap.cpp.o -c /home/charmmy/Github/aboutCpp/Map/unordermap/MyHashMap.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/Map/unordermap/MyHashMap.cpp",
+  "output": "CMakeFiles/unordermap.dir/MyHashMap.cpp.o"
+}
+]

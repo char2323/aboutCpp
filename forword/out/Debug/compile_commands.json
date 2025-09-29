@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/charmmy/Github/aboutCpp/forword/out/Debug",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/FORWORD.dir/main.cpp.o -c /home/charmmy/Github/aboutCpp/forword/main.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/forword/main.cpp",
+  "output": "CMakeFiles/FORWORD.dir/main.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/opod.dir/link.d CMakeFiles/opod.dir/main.cpp.o CMakeFiles/opod.dir/Complex.cpp.o -o opod

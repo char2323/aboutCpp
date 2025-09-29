@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/AVLmap.dir/link.d CMakeFiles/AVLmap.dir/main.cpp.o CMakeFiles/AVLmap.dir/AVLmap.cpp.o -o AVLmap

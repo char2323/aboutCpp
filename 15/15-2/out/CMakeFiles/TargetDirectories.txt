@@ -1,0 +1,3 @@
+/home/charmmy/Github/aboutCpp/15/15-2/out/CMakeFiles/first.dir
+/home/charmmy/Github/aboutCpp/15/15-2/out/CMakeFiles/edit_cache.dir
+/home/charmmy/Github/aboutCpp/15/15-2/out/CMakeFiles/rebuild_cache.dir

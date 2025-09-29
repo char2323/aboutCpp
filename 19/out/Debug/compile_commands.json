@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/charmmy/Github/aboutCpp/19/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/first.dir/main.cpp.o -c /home/charmmy/Github/aboutCpp/19/main.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/19/main.cpp",
+  "output": "CMakeFiles/first.dir/main.cpp.o"
+},
+{
+  "directory": "/home/charmmy/Github/aboutCpp/19/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/first.dir/Student.cpp.o -c /home/charmmy/Github/aboutCpp/19/Student.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/19/Student.cpp",
+  "output": "CMakeFiles/first.dir/Student.cpp.o"
+},
+{
+  "directory": "/home/charmmy/Github/aboutCpp/19/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/first.dir/Example.cpp.o -c /home/charmmy/Github/aboutCpp/19/Example.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/19/Example.cpp",
+  "output": "CMakeFiles/first.dir/Example.cpp.o"
+},
+{
+  "directory": "/home/charmmy/Github/aboutCpp/19/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/first.dir/Mystring.cpp.o -c /home/charmmy/Github/aboutCpp/19/Mystring.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/19/Mystring.cpp",
+  "output": "CMakeFiles/first.dir/Mystring.cpp.o"
+},
+{
+  "directory": "/home/charmmy/Github/aboutCpp/19/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/first.dir/MoveExample.cpp.o -c /home/charmmy/Github/aboutCpp/19/MoveExample.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/19/MoveExample.cpp",
+  "output": "CMakeFiles/first.dir/MoveExample.cpp.o"
+},
+{
+  "directory": "/home/charmmy/Github/aboutCpp/19/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/first.dir/Point.cpp.o -c /home/charmmy/Github/aboutCpp/19/Point.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/19/Point.cpp",
+  "output": "CMakeFiles/first.dir/Point.cpp.o"
+}
+]

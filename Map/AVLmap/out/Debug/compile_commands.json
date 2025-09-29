@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/charmmy/Github/aboutCpp/Map/AVLmap/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/AVLmap.dir/main.cpp.o -c /home/charmmy/Github/aboutCpp/Map/AVLmap/main.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/Map/AVLmap/main.cpp",
+  "output": "CMakeFiles/AVLmap.dir/main.cpp.o"
+},
+{
+  "directory": "/home/charmmy/Github/aboutCpp/Map/AVLmap/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/AVLmap.dir/AVLmap.cpp.o -c /home/charmmy/Github/aboutCpp/Map/AVLmap/AVLmap.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/Map/AVLmap/AVLmap.cpp",
+  "output": "CMakeFiles/AVLmap.dir/AVLmap.cpp.o"
+}
+]

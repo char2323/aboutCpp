@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/charmmy/Github/aboutCpp/19/Mystring/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/first.dir/main.cpp.o -c /home/charmmy/Github/aboutCpp/19/Mystring/main.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/19/Mystring/main.cpp",
+  "output": "CMakeFiles/first.dir/main.cpp.o"
+},
+{
+  "directory": "/home/charmmy/Github/aboutCpp/19/Mystring/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/first.dir/Mystring.cpp.o -c /home/charmmy/Github/aboutCpp/19/Mystring/Mystring.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/19/Mystring/Mystring.cpp",
+  "output": "CMakeFiles/first.dir/Mystring.cpp.o"
+}
+]

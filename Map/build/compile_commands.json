@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/charmmy/Github/aboutCpp/Map/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/Map.dir/main.cpp.o -c /home/charmmy/Github/aboutCpp/Map/main.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/Map/main.cpp",
+  "output": "/home/charmmy/Github/aboutCpp/Map/build/CMakeFiles/Map.dir/main.cpp.o"
+},
+{
+  "directory": "/home/charmmy/Github/aboutCpp/Map/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/Map.dir/MyMap.cpp.o -c /home/charmmy/Github/aboutCpp/Map/MyMap.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/Map/MyMap.cpp",
+  "output": "/home/charmmy/Github/aboutCpp/Map/build/CMakeFiles/Map.dir/MyMap.cpp.o"
+}
+]

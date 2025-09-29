@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/charmmy/Github/aboutCpp/OperatorOverloading/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/opod.dir/main.cpp.o -c /home/charmmy/Github/aboutCpp/OperatorOverloading/main.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/OperatorOverloading/main.cpp",
+  "output": "CMakeFiles/opod.dir/main.cpp.o"
+},
+{
+  "directory": "/home/charmmy/Github/aboutCpp/OperatorOverloading/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/opod.dir/Complex.cpp.o -c /home/charmmy/Github/aboutCpp/OperatorOverloading/Complex.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/OperatorOverloading/Complex.cpp",
+  "output": "CMakeFiles/opod.dir/Complex.cpp.o"
+}
+]

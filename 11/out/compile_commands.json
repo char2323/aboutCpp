@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/charmmy/Github/aboutCpp/11/out",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/try.dir/try.cpp.o -c /home/charmmy/Github/aboutCpp/11/try.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/11/try.cpp",
+  "output": "CMakeFiles/try.dir/try.cpp.o"
+}
+]

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/charmmy/Github/aboutCpp/22/MemoryPool/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/main.dir/main.cpp.o -c /home/charmmy/Github/aboutCpp/22/MemoryPool/main.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/22/MemoryPool/main.cpp",
+  "output": "/home/charmmy/Github/aboutCpp/22/MemoryPool/build/CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/charmmy/Github/aboutCpp/22/MemoryPool/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/main.dir/MemoryPool.cpp.o -c /home/charmmy/Github/aboutCpp/22/MemoryPool/MemoryPool.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/22/MemoryPool/MemoryPool.cpp",
+  "output": "/home/charmmy/Github/aboutCpp/22/MemoryPool/build/CMakeFiles/main.dir/MemoryPool.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/SINGLETON.dir/link.d CMakeFiles/SINGLETON.dir/main.cpp.o CMakeFiles/SINGLETON.dir/Singleton.cpp.o -o SINGLETON

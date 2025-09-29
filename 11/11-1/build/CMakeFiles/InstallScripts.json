@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/charmmy/Github/aboutCpp/string_example1/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

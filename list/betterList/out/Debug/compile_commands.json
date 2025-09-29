@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/charmmy/Github/aboutCpp/list/betterList/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/first.dir/main.cpp.o -c /home/charmmy/Github/aboutCpp/list/betterList/main.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/list/betterList/main.cpp",
+  "output": "CMakeFiles/first.dir/main.cpp.o"
+},
+{
+  "directory": "/home/charmmy/Github/aboutCpp/list/betterList/out/Debug",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/first.dir/List.cpp.o -c /home/charmmy/Github/aboutCpp/list/betterList/List.cpp",
+  "file": "/home/charmmy/Github/aboutCpp/list/betterList/List.cpp",
+  "output": "CMakeFiles/first.dir/List.cpp.o"
+}
+]
